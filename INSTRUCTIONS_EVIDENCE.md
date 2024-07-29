@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create a new GitHub repo named ***repo-name***
+Create a new GitHub repo: ***repo-name***
 
 Write a script that:
 
@@ -15,8 +15,8 @@ Write a script that:
  - Resource 2
  
 ## When You're Finished
- - Did you save your work to your GitHub repo?
- - Check your spelling, punctuation, and grammar
+ - Did you save your work to your GitHub repo for this evidence project?
+ - Check your spelling and grammar
 
 
 
