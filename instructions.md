@@ -14,9 +14,9 @@
 
 ## Sample Output
 
-![Albuquerque, New Mexico](nm-desert1.jpg)
+![alt text](image.jpg)
 
-*Desert landscape in New Mexico.*
+
 
 ## General Specifications
 
