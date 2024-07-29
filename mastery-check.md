@@ -1,7 +1,7 @@
-# Mastery Check: Python Variables & Data Types
+# Mastery Check: Topic
 
 ## Submitting Your Work
-> Create a GitHub repo named: ***variables-mc1***
+> Create a GitHub repo named: ***repo-name***
 
 ## Your Script
 
