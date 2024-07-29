@@ -6,7 +6,7 @@
 
 
 ### Related Resources
-- Resource
+- [Duck Duck Go](https://duckduckgo.com)
 
 
 ### Notes
