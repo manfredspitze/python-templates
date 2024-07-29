@@ -7,5 +7,5 @@
 
 ## Your Script
 
-- Add a comment block to the top of your script
+- Add a comment block to the top of your script (name, date, project title)
 - Do this
