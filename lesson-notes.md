@@ -7,6 +7,7 @@
 
 ### Related Resources
 - [Duck Duck Go](https://duckduckgo.com)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
 ### Notes
