@@ -8,21 +8,21 @@ Complete the stations in order.
 
 ### Station 1
 - Offline / Online
-- Objective
+- *Objective*
 - Do this
 
 ---
 
 ### Station 2
 - Offline / Online
-- Objective
+- *Objective*
 - Do this
 
 ---
 
 ### Station 3
 - Offline / Online
-- Objective
+- *Objective*
 - Do this
 
 ---
