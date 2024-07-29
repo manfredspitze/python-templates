@@ -2,6 +2,8 @@
 
 ## Overview
 
+Create a new GitHub repo named ***repo-name***
+
 Write a script that:
 
  - does X
