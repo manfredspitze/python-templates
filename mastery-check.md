@@ -8,4 +8,6 @@
 ## Your Script
 
 - Add a comment block to the top of your script (name, date, project title)
-- Do this
+- Do X
+- Do Y
+- Do Z
