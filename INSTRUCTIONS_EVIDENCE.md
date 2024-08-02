@@ -2,7 +2,10 @@
 
 ## Overview
 
-Create a new GitHub repo: ***repo-name***
+- Create a new **PUBLIC** GitHub repo: ***repo-name***
+- Add your project files to your repo
+- Share the web address (URL) that points to your repo on Google Classroom
+
 
 Write a script that:
 
