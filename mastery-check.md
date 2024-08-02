@@ -3,6 +3,8 @@
 ## Submitting Your Work
 > Create a **PUBLIC** GitHub repo named: ***repo-name***
 >
+> Add your project files to your repo
+> 
 > Share the web address that points to your repo on Google Classroom
 
 ## Your Script
