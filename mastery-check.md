@@ -1,7 +1,7 @@
 # Mastery Check: Topic
 
 ## Submitting Your Work
-> Create a GitHub repo named: ***repo-name***
+> Create a **PUBLIC** GitHub repo named: ***repo-name***
 >
 > Share the web address that points to your repo on Google Classroom
 
