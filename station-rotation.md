@@ -3,6 +3,7 @@
 
 ### Directions
 - Complete the stations in order
+- Share your ideas and conclusions with your assigned partner or group
 - Be prepared to discuss your work with your teacher and the rest of the class
 
 ---
