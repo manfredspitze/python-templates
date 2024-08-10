@@ -1,5 +1,9 @@
 # Mastery Check: Topic
 
+See also:
+
+[Matthes, PCC, 2nd ed. solution files](https://ehmatthes.github.io/pcc_2e/solutions/solutions/)
+
 ## Submitting Your Work
 > Create a **PUBLIC** GitHub repo named: ***repo-name***
 >
