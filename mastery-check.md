@@ -9,7 +9,9 @@
 
 ## Your Script
 
-- Add a comment block to the top of your script (name, date, project title)
+- Write a script that does the following:
 - Do X
 - Do Y
 - Do Z
+
+**Remember to add a comment block to the top of your script (name, date, project title)**
