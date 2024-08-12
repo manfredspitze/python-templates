@@ -9,8 +9,10 @@
 
 ## Your Script
 
-- Write a script that does the following:
+- Write a script that does the following:  
+
   - Do X
+  - Do Y
 
 
 **Remember to add a comment block to the top of your script (name, date, project title)**
