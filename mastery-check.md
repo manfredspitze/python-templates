@@ -10,8 +10,7 @@
 ## Your Script
 
 - Write a script that does the following:
-- Do X
-- Do Y
-- Do Z
+  - Do X
+
 
 **Remember to add a comment block to the top of your script (name, date, project title)**
