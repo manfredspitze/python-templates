@@ -1,0 +1,8 @@
+## 10-Minute Micro Lesson: Python Variables
+
+| Day | Hook | Micro Lesson | Guided Practice | Independent Practice | Assessment | Closing | Resources |
+|---|---|---|---|---|---|---|---|
+| Mon | Review basic syntax. | Introduce variables, assignment. | Create simple variables. | Write a short script. | Observe code. | Summarize variables. | [Var tutorial](https://www.tutorialspoint.com/python/python_variables.htm), [Online Python](https://www.online-python.com/) |
+| Tue | Recap variables. | Discuss naming conventions. | Practice naming variables. | Rename existing variables. | Review names. | Emphasize clear naming. | [PEP 8](https://www.python.org/dev/peps/pep-0008/#naming-conventions), [Naming guide](https://realpython.com/python-variable-naming/) |
+| Wed | Review naming and assignment. | Introduce data types, `type()`. | Identify data types. | Create variables of different types. | Quiz on data types. | Summarize data types. | [Data types](https://www.w3schools.com/python/python_datatypes.asp), [Type conversion](https://www.programiz.com/python-programming/type-casting) |
+| Fri | Recap data types and variables. | Demonstrate arithmetic operations. | Perform calculations. | Calculate rectangle area. | Evaluate calculations. | Summarize calculations. | [Arithmetic operators](https://www.w3schools.com/python/python_operators_arithmetic.asp), [Math module](https://docs.python.org/3/library/math.html) |
