@@ -18,6 +18,7 @@
 | GitHub 2425 Python                         | Assorted                  | [2425 Python](https://github.com/bengal865/2425-python) |
 | Python 2223 folder                         | Assorted                  | [GDrive Python 2223 folder](https://drive.google.com/drive/folders/1WwfWgR1__8Kflr_dt7CgzkFRSBP9pt62?usp=sharing) |
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
+| Variables & Datat Types                    | IPO Model                 | [IPO model starter](https://github.com/manfredspitze/python-ipo-model-starter)   |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 | Functions                                  | Simple Text Adventure     | [text-adventure-solution](https://github.com/bengal865/2425-python/blob/main/functions/space-adventure-text-game.py)                  |
 | Functions                                  | Functions intro starter   | [Functions intro starter](https://github.com/manfredspitze/functions-intro-starter)                    
@@ -36,8 +37,7 @@
 | Working with Lists                         | Modifying Lists           | [List methods starter](https://github.com/bengal865/python-lists-modifying-starter)                                           |
 | Working with Lists                         | Modifying Lists           | *[List methods solution](https://github.com/bengal865/python-lists-modifying-solution)*                                       |
 | Working with Lists                         | Modifying Lists           | [Movie Night random list item starter](https://github.com/bengal865/movie-night-python-starter)                               |
-| Working with Lists                         | Modifying Lists           | *[Movie Night random list item solution](https://github.com/bengal865/movie-night-python-solution)*                           |
-| Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
+| Working with Lists                         | Modifying Lists           | *[Movie Night random list item solution](https://github.com/bengal865/movie-night-python-solution)*                           |                                                                                               
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
 | Unit name                                  | Topic                     | [link text](URL)                                                                                                              |
