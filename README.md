@@ -20,7 +20,8 @@
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/bengal865/python-variables-solution)            |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
 | Functions                                  | Simple Text Adventure     | [text-adventure-solution](https://github.com/bengal865/2425-python/blob/main/functions/space-adventure-text-game.py)                  |
-| Strings Starter                            | Strings                   | [strings-starter](https://github.com/bengal865/python-strings-starter/tree/main) |
+| Functions                                  | Functions intro starter   | [Functions intro starter](https://github.com/manfredspitze/functions-intro-starter)                    
+| Strings                                    | Strings starter           | [strings-starter](https://github.com/bengal865/python-strings-starter/tree/main) |
 | Strings Solution                           | Strings                   | [strings-solution](https://github.com/bengal865/python-strings-starter/tree/main)|
 | Strings                                    | String Manipulation       | [link text](URL)                                                                                                              |
 | Strings                                    | String Manipulation       | [link text](URL)     
