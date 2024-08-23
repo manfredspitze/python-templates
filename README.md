@@ -51,6 +51,7 @@
 | Working with Lists                         | Modifying Lists           | [Movie Night random list item starter](https://github.com/bengal865/movie-night-python-starter)                               |
 | Working with Lists                         | Modifying Lists           | *[Movie Night random list item solution](https://github.com/bengal865/movie-night-python-solution)*                           |   
 | Working with Lists                         | List Comprehension        | [List comprehension starter](https://github.com/manfredspitze/python-list-comprehension-starter)                              |
+| Working with Lists                         | List Comprehension Solutions | [List comprehension solutions](https://github.com/manfredspitze/python-list-comprehension-solutions)                       |
 | Working with Lists                         | Slicing lists             | [Slicing lists starter](https://github.com/manfredspitze/slicing-python-lists-starter)                                        |
 | Working with Lists                         | List Membership           | [List membership starter](https://github.com/manfredspitze/python-list-membership-starter)                                    |
 | Working with Lists                         | Manage lists              | [Manage lists using function starter](https://github.com/manfredspitze/python-manage-list-using-function)                     |
