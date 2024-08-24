@@ -27,7 +27,6 @@
 | Python 2223 folder                         | Assorted                  | [GDrive Python 2223 folder](https://drive.google.com/drive/folders/1WwfWgR1__8Kflr_dt7CgzkFRSBP9pt62?usp=sharing) |
 | Variables & Data Types                     | Variables 101             | [python-variables-solution](https://github.com/manfredspitze/python-variables-data-types-solutions)            |
 | Variables & Data Types                     | IPO Model                 | [IPO model starter](https://github.com/manfredspitze/python-ipo-model-starter)   |
-| Variables & Data Types                     | Variables & Data Types starter | [Variables & Data Types Starter](https://github.com/manfredspitze/num-guess-game-starter) |
 | Variables & Data Types                     | Mastery Check             | [Mastery Check](https://github.com/manfredspitze/python-variables-data-types-mastery-check)    |
 | Variables & Data Types                     | Concatenation             | [Concatenation](https://github.com/manfredspitze/python-concatenation-starter)                 |
 | GitHub Basics                              | GitHub                    | [github-basics-starter](https://github.com/bengal865/github-basics/tree/main)                  |
