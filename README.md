@@ -1,1 +1,1 @@
-See wiki for instructions.
+See *wiki* for instructions.
