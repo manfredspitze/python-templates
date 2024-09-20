@@ -7,13 +7,13 @@
 > 
 > Add a comment block to the top of your Python file (name, date, *title* as the project title)
 
-## Your Script
+## Your Tasks
 
-- Write a script that does the following:  
+- Use a comment to label each task in your script
 
-  - Do X  
+  - For example: # Task 1, # Task 2, etc.
 
-  - Do Y
+  - Pay attention to spelling, capitalization, and grammar!
 
 
 **Remember to add a comment block to the top of your script (name, date, project title)**
