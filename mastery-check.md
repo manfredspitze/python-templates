@@ -7,7 +7,7 @@
 > 
 > Add a comment block to the top of your Python file (name, date, *title* as the project title)
 >
-> Bring your workstation up to your teacher when you are finished so he can check your code during Teacher Time
+> Bring your workstation up to your teacher when you are finished so he can check your code 
 
 ## Your Tasks
 
