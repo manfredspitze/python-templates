@@ -1,11 +1,11 @@
 # Mastery Check: Topic
 
-## Submitting Your Work
-> Create a **PUBLIC** GitHub repo named: ***repo-name***
+## Finished?
+> Create a NEW folder on your workstation desktop named: ***repo-name***
 >
-> Add your project files to your repo
+> Add a file (`filename.py`) to the folder
 > 
-> Share the web address that points to your repo on Google Classroom
+> Add a comment block to the top of your Python file (name, date, *title* as the project title)
 
 ## Your Script
 
