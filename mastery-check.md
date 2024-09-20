@@ -1,6 +1,6 @@
 # Mastery Check: Topic
 
-## Finished?
+## Directions
 > Create a NEW folder on your workstation desktop named: ***repo-name***
 >
 > Add a file (`filename.py`) to the folder
