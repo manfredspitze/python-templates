@@ -6,6 +6,8 @@
 > Add a file (`filename.py`) to the folder
 > 
 > Add a comment block to the top of your Python file (name, date, *title* as the project title)
+>
+> Bring your workstation up to your teacher when you are finished so he can check your code during Teacher Time
 
 ## Your Tasks
 
@@ -15,5 +17,25 @@
 
   - Pay attention to spelling, capitalization, and grammar!
 
+### Task 1
 
-**Remember to add a comment block to the top of your script (name, date, project title)**
+- item
+- item
+- item
+
+---
+
+### Task 2
+
+- item
+- item
+- item
+
+---
+
+### Task 3
+
+- item
+- item
+- item
+
