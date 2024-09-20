@@ -15,7 +15,7 @@
 
   - For example: # Task 1, # Task 2, etc.
 
-  - Pay attention to spelling, capitalization, and grammar!
+- Pay attention to spelling, capitalization, and grammar!
 
 ### Task 1
 
