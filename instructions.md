@@ -1,4 +1,4 @@
-## Python: Simple Math 2.0
+## Python: Topic
 ---
 ### Getting Started
 
@@ -27,30 +27,20 @@
 
 #### Task 1
 
-A store is offering a 20% discount on all items. If a shirt originally costs $30, what is the discounted price?
-
-Use the IPO model to organize the code in your script.
+*Text*
 
 #### Task 2
 
-A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden?
+*Text*
 
 #### Task 3
 
-A scientist is studying bacteria that double in number every hour. If there are initially 10 bacteria, how many bacteria will there be after 5 hours?
-
-HINT: You'll need three variables to perform the calculation -- one for the beginning number of bacteria, another for the number of hours, and a third for the final number of bacteria.
-
-You'll also use the exponent operator in this problem.
+*Text*
 
 #### Task 4
 
-Owen, Koen, and Qwynn are planning a road trip to Wisconsin.  
-
-Write a script that will help them calculate the time it will take to drive 200 kilometers at 90 kilometers per hour.
+*Text*
 
 #### Task 5
 
-A group of 23 people want to share a pizza evenly. 
-
-How many slices will be left over if the pizza is cut into 8 slices?
+*Text*
