@@ -1,5 +1,5 @@
 ## Python: Simple Math 2.0
-
+---
 ### Getting Started
 
 - Create a GitHub repo named: **simple-math2**
@@ -9,7 +9,7 @@
 
 - Also create a NEW project folder on your workstation desktop
 - Use VS Code to save your work (temporarily) to your workstation folder
-
+---
 
 ### Comment Block
 
