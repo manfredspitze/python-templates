@@ -10,18 +10,10 @@
     - Teacher will discuss your work with you **during Teacher Time**
 ---
 
-### Comment Block
-
-```python
-# Abraham Lincoln
-# 20 SEP 20XX
-# Project title
-```
-
 ### Coding Tasks
 
 - Use comments to label each task in your script
-  - Example: # Part 1, # Part 2, etc.
+  - Example: # Task 1, # Task 2, etc.
 - Use f-strings to display the output for each task
 
 #### Task 1
