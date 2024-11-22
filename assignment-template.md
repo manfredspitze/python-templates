@@ -8,7 +8,7 @@
 * Teacher will check your work during Teacher Time
 
 **Overview:**
-* **Objective:** You'll learn how to...
+* **Objective:** *You'll learn how to...*
 * **Features:** 
   * Text
   * Text
