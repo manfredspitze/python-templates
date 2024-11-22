@@ -46,7 +46,7 @@
 
 #### Review and Update
 - [ ] Regularly review and update materials
-- [ ] Ensure all links are functional
+- [ ] Do all links work?
 - [ ] Check for consistency and accuracy
 
-Feel free to customize this checklist to better fit your specific needs. How do you find managing both Google Classroom and GitHub for your class?
+
