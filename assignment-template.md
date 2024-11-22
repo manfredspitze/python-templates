@@ -17,8 +17,8 @@
   * [List any required libraries or modules]
 
 **Testing Your Code:**
-* [Explain how you will check if your program works correctly]
-* [Describe any test cases you plan to use]
+* Explain how you will check if the script works correctly
+* Describe any test cases you plan to use
 
 
 
