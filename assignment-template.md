@@ -1,17 +1,17 @@
 ## Project Template
 
-**Project Title:** [Insert Project Title]
+**Project Title:** Project title
 
-**Finished?**
-* [List all files or code you need to turn in]
-* [Specify the format for submission (e.g., GitHub, ZIP file)]
-* **Due Date:** [Set a clear deadline]
+**Saving Your Work**
+* Save your files to a GitHub repo named: **repo***
+* No need to share your repo with your teacher
+* Teacher will check your work during Teacher Time
 
-**Getting Started:**
+**Overview:**
 * **Objective:** You'll learn how to...
 * **Features:** 
-  * [List specific things the program should be able to do]
-  * [Describe how the program should interact with the user]
+  * Text
+  * Text
 
 * **Additional Modules:**
   * [List any required libraries or modules]
