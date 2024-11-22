@@ -14,7 +14,7 @@
   * Text
 
 * **Additional Modules:**
-  * [List any required libraries or modules]
+  * List any required libraries or modules
 
 **Testing Your Code:**
 * Explain how you will check if the script works correctly
