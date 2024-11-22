@@ -10,7 +10,7 @@
 * **Additional Modules:**
   * [List any required libraries or modules]
 
-**How to Test:**
+**Testing Your Code:**
 * [Explain how you will check if your program works correctly]
 * [Describe any test cases you plan to use]
 
