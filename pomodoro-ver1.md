@@ -1,4 +1,4 @@
-Sure! Here's the reformatted table with each Pomodoro session as a row:
+## Batching Schedule 1.0 / Pomodoro & Pareto Principle
 
 | **Pomodoro #** | **Time**        | **Task**                                                                 | **Focus**                       | **Notes**                                                                 |
 |----------------|-----------------|--------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------------|
