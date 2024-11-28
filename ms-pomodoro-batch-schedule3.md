@@ -18,10 +18,7 @@
 | Pomodoro 4              | 25 minutes   | Develop detailed lesson plans, including activities and resources           |
 | Short Break             | 5 minutes    | Refresh yourself                                                            |
 | Pomodoro 5              | 25 minutes   | Continue developing detailed lesson plans                                   |
-| Short Break             | 5 minutes    | Ta
-This revised schedule groups similar activities together, allowing you to focus on one type of task at a time, which can help improve efficiency and productivity. Happy planning! 📚✨
-
-Would you like any more tips or adjustments to this schedule?ke a quick break                                                          |
+| Short Break             | 5 minutes    | Take a quick break                                                          |
 | Pomodoro 6              | 15 minutes   | Finalize lesson plans and resources                                         |
 
 ### Wednesday
@@ -43,3 +40,4 @@ Would you like any more tips or adjustments to this schedule?ke a quick break   
 | Pomodoro 11             | 25 minutes   | Continue reviewing and refining                                             |
 | Short Break             | 5 minutes    | Take a quick break                                                          |
 | Pomodoro 12             | 15 minutes   | Final review and adjustments for all planned lessons                        |
+
