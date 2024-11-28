@@ -1,4 +1,4 @@
-Certainly! Below is a suggested **Pomodoro schedule spread across four workdays (Monday to Thursday)**, assuming you have **75 minutes of planning time each day**. Since each Pomodoro session lasts 25 minutes, you'll have **3 Pomodoros per day**, with a break after each Pomodoro.
+Below is a suggested **Pomodoro schedule spread across four workdays (Monday to Thursday)**, assuming you have **75 minutes of planning time each day**. Since each Pomodoro session lasts 25 minutes, you'll have **3 Pomodoros per day**, with a break after each Pomodoro.
 
 ### Pomodoro Schedule Spread Across Four Days
 
