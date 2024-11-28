@@ -33,4 +33,4 @@ Below is a suggested **Pomodoro schedule spread across four workdays (Monday to 
 - **Breaks** are built in after each Pomodoro (5 minutes), helping you stay focused and refreshed.
 - **Wednesday and Thursday** focus on **review, revision, and preparation** for future lessons to ensure you're staying ahead in your planning.
 
-By spreading the work out this way, you balance intensity with rest, and you also allow yourself time to adjust and reflect on your progress as you move through the week.
+
