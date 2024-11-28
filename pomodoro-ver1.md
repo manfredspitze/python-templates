@@ -17,6 +17,5 @@
 ---
 
 ### Summary:
-- **Pomodoros** are now shown as individual rows for each session, and the breaks are clearly marked.
 - Each **Pomodoro** represents a focused work period, followed by a **5-minute break**.
 - Tasks are designed to prioritize the **80% critical work** in lesson planning (objectives, activities, assessments) and the **20% secondary tasks** (materials, revisions).
