@@ -24,7 +24,7 @@
 ### Wednesday
 
 | **Activity**            | **Duration** | **Details**                                                                 |
-|-------------------------|--------------|-----------------------------------------------------------------------------|
+|-------------------------|--------------|--------------------------Sure! Here's a simple checklist based on the revised Pomodoro Technique Schedule. You can use this to track your progress each day:---------------------------------------------------|
 | Pomodoro 7              | 25 minutes   | Create supporting materials (worksheets, slides, etc.)                      |
 | Short Break             | 5 minutes    | Stretch, grab a drink, or take a quick walk                                 |
 | Pomodoro 8              | 25 minutes   | Continue creating supporting materials                                      |
@@ -40,4 +40,56 @@
 | Pomodoro 11             | 25 minutes   | Continue reviewing and refining                                             |
 | Short Break             | 5 minutes    | Take a quick break                                                          |
 | Pomodoro 12             | 15 minutes   | Final review and adjustments for all planned lessons                        |
+
+
+
+## Pomodoro Lesson Planning Checklist
+
+### Monday
+
+- [ ] **Preparation (10 minutes)**
+  - Gather materials
+  - Set clear goals for the session
+- [ ] **Pomodoro 1 (25 minutes)**
+  - Identify and structure lesson objectives, key content, and assessments
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 2 (25 minutes)**
+  - Continue identifying and structuring lesson objectives, key content, and assessments
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 3 (5 minutes)**
+  - Finalize lesson objectives and key content
+
+### Tuesday
+
+- [ ] **Pomodoro 4 (25 minutes)**
+  - Develop detailed lesson plans, including activities and resources
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 5 (25 minutes)**
+  - Continue developing detailed lesson plans
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 6 (15 minutes)**
+  - Finalize lesson plans and resources
+
+### Wednesday
+
+- [ ] **Pomodoro 7 (25 minutes)**
+  - Create supporting materials (worksheets, slides, etc.)
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 8 (25 minutes)**
+  - Continue creating supporting materials
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 9 (15 minutes)**
+  - Finalize supporting materials
+
+### Thursday
+
+- [ ] **Pomodoro 10 (25 minutes)**
+  - Review and refine the lesson plans and materials
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 11 (25 minutes)**
+  - Continue reviewing and refining
+- [ ] **Short Break (5 minutes)**
+- [ ] **Pomodoro 12 (15 minutes)**
+  - Final review and adjustments for all planned lessons
+
 
