@@ -1,7 +1,3 @@
-Here's the filtered version of the text, with repetitive sections removed:
-
----
-
 Applying the **Pareto Principle (80/20 Rule)** to lesson planning for your high school **programming class** (e.g., Introduction to Python) involves focusing your time and energy on the **20% of tasks or topics** that will lead to **80% of your students' understanding** and success. Here are concrete examples of how to apply this principle to your lesson planning:
 
 ### **1. Focus on Core Programming Concepts**
