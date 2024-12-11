@@ -2,19 +2,20 @@
 # Exit Ticket
 ## Topic
 
-- Please answer the following questions 
-- Use correct spelling and grammar
+### Name ____________________________
+
+- Put your completed exit ticket in the plastic tray on your teacher's desk **today** when you are finished.
+
 
 #### Question
-- *Your answer goes here...*
 
-
-#### Question 
-- *Your answer here...*
 
 
 #### Question 
-- *Your answer here...*
+
+
+
+
 
 
 
