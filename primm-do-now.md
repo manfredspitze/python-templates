@@ -1,7 +1,5 @@
 # PRIMM: Predict The Output / Pairs 
 
-- **PRIMM** is short for (P)redict, (R)un, (I)nvestigate, (M)odify, and (M)ake
-
 ```python
 # Example 1
 first_name = 'Mike'
