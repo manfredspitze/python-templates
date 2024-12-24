@@ -1,4 +1,6 @@
-Absolutely! Below is a sample **Markdown** template you can use to track your time and assess the effectiveness of your new lesson planning approach. It’s structured so that you can easily record and compare your data week-by-week, with sections for tracking the metrics you mentioned.
+Below is a sample **Markdown** template you can use to track your time and assess the effectiveness of your new lesson planning approach. 
+
+It’s structured so that you can easily record and compare your data week-by-week, with sections for tracking the metrics you mentioned.
 
 ---
 
