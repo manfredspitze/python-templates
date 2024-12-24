@@ -1,4 +1,11 @@
-To determine whether your new approach to lesson planning is actually saving you time, you'll want to set up a process that allows you to track and measure the time you spend on lesson planning, and then evaluate the effect of each principle (Pareto Principle, Occam’s Razor, Pomodoro Technique) individually and together. 
+To determine whether your new approach to lesson planning is actually saving you time, you'll want to set up a process that allows you to track and measure the time you spend on lesson planning, and then evaluate the effect of each principle (Pareto Principle, Occam’s Razor, Pomodoro Technique) individually and in combination. 
+
+### Key Metrics to Track:
+To quantify your time savings and effectiveness, here are some key metrics you might want to track weekly:
+   - **Total hours spent on lesson planning**
+   - **Time per task (objectives, materials, assignments, etc.)**
+   - **Student feedback** (engagement, satisfaction with lessons)
+   - **Your personal satisfaction with the lesson planning process**
 
 Here’s how you can go about it:
 
@@ -29,28 +36,21 @@ Here’s how you can go about it:
 
 ### 4. **Compare the Results**
    After a couple of weeks of using your new approach, compare your time tracking results against your baseline:
-   - **Time saved**: Do you notice that you’re spending less time on planning? Which tasks are taking less time?
-   - **Quality of work**: Did the simplified planning process still result in effective lessons? Did student learning improve or stay the same?
-   - **Satisfaction with the process**: Are you feeling less stressed and more productive, or do you feel rushed? Are you maintaining a sustainable work-life balance?
+   - **Time saved**: Do you notice that you’re spending less time on planning? Which tasks take less time?
+   - **Quality of work**: Did simplifying your planning still allow you to create quality lessons? Did students get more out of each lesson?
+   - **Overall satisfaction**: Are you feeling less stressed and more productive, or do you feel rushed? Are you maintaining a sustainable work-life balance?
 
 ### 5. **Adjust Based on Feedback**
-   Reflect on your results and adjust your methods as necessary:
-   - If you found that you were spending more time on certain tasks (e.g., simplifying materials led to spending too much time refining them), tweak your approach to optimize further.
+   Consider your results and adjust your methods accordingly:
+   - If you found you were spending more time on certain tasks (e.g., simplifying materials led to spending too much time refining them), tweak your approach to optimize the process.
    - If you noticed some areas where you could simplify even more (e.g., too many small coding exercises in your lessons), consider refining your use of the Pareto Principle.
-   - If the Pomodoro Technique wasn’t effective for your planning (perhaps you need longer blocks of time for certain tasks), adjust the intervals (e.g., 45 minutes of work, 10 minutes of break) to better suit your style.
+   - If the Pomodoro Technique wasn’t helping with your planning (perhaps you need longer blocks of time for certain tasks), adjust the intervals (e.g., 45 minutes of work, 10 minutes of break) to better suit your style.
 
-### 6. **Check Long-Term Impact**
-   After using this approach for 4–6 weeks, assess whether it’s having a long-term impact on both your time and teaching quality:
+### 6. **Check Long-Term Effects**
+   After using this approach for 4–6 weeks, determine how it's affecting both your schedule and the quality of your teaching:
    - **Time savings**: Do you feel like your planning is more efficient? Are you able to dedicate more time to other responsibilities (e.g., grading, student interaction)?
-   - **Student outcomes**: Are your students engaging better with the material? Is their performance improving due to more focused and simpler lessons?
+   - **Student outcomes**: Do your students better understand the material? Is their performance improving as a result of your focused and simpler lessons?
    - **Work-life balance**: Has this approach helped you reduce your workload and prevent burnout?
-
-### Key Metrics to Track:
-To quantify your time savings and effectiveness, here are some key metrics you might want to track weekly:
-   - **Total hours spent on lesson planning**
-   - **Time per task (objectives, materials, assignments, etc.)**
-   - **Student feedback** (engagement, satisfaction with lessons)
-   - **Your personal satisfaction with the lesson planning process**
 
 ---
 
