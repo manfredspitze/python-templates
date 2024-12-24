@@ -8,11 +8,13 @@ It’s structured so that you can easily record and compare your data week-by-we
 # Lesson Planning Time & Effectiveness Tracker
 
 ## Overview
-This document is used to track and evaluate the time spent on lesson planning and the effectiveness of applying the Pareto Principle, Occam's Razor, and Pomodoro Technique in simplifying the process. Use this file each week to record your metrics, compare them to previous weeks, and adjust your approach accordingly.
+This document is used to track and evaluate the time spent on lesson planning after applying the Pareto Principle, Occam's Razor, and the Pomodoro Technique.
+
+Use this file each week to record your observations, compare them to previous weeks, and adjust your approach accordingly.
 
 ---
 
-## Weekly Tracking Table
+## Weekly Tracker
 
 | Week | Total Hours Spent on Lesson Planning | Time Spent on Key Tasks (in hours) | Time Saved (vs. Baseline) | Student Engagement/Feedback | Personal Satisfaction | Issues Encountered |
 |------|-------------------------------------|-----------------------------------|---------------------------|-----------------------------|-----------------------|--------------------|
@@ -35,11 +37,11 @@ This document is used to track and evaluate the time spent on lesson planning an
    Break down your time into key tasks involved in lesson planning. Track how much time you're spending on each area.
 
    #### Tasks:
-   - **Creating Lesson Objectives (Obj)**: Time spent defining the learning outcomes for the lessons.
-   - **Writing/Curating Materials (Mat)**: Time spent creating, gathering, or refining instructional materials (slides, handouts, coding examples).
+   - **Creating Lesson Objectives (Obj)**: Time spent defining lesson objectives.
+   - **Writing/Curating Materials (Mat)**: Time spent creating, gathering, or refining instructional materials (slides, handouts, code examples).
    - **Designing Assessments (Assess)**: Time spent creating quizzes, assignments, or project rubrics.
    - **Reviewing Students' Work (Review)**: Time spent reviewing student code, assignments, or projects.
-   - **General Organization/Logistics (Org)**: Time spent planning the course calendar, managing grading, etc.
+   - **General Organization/Logistics (Org)**: Time spent planning the course calendar, updating grades, etc.
 
    *Example Format:*
    - Week 1:  
