@@ -68,7 +68,7 @@ Use this file each week to record your observations, compare them to previous we
 
 ### 4. **Student Engagement/Feedback**
    - **Purpose**: Measure how well students are responding to the lessons designed with the new approach.
-   - **How to Use**: Record informal or formal feedback from students, such as their engagement during lessons, satisfaction with the pace, or how they feel about the clarity of materials. Use tools like surveys or direct feedback.
+   - **How to Use**: Record informal or formal feedback from students, such as how focused they are during lessons, their satisfaction with the pace, or how clear they feel your instructions are. Use tools like surveys or direct feedback.
    - Example metrics might include:
      - % of students actively participating
      - % of students completing assignments on time
