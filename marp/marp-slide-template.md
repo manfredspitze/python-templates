@@ -3,8 +3,8 @@ marp: true
 theme: gaia
 paginate: true
 
-header: 'This is the header'
-footer: 'Career Tech'
+// header: 'This is the header'
+footer: 'Unit name'
 ---
 
 # First Slide
@@ -28,7 +28,7 @@ Cupidatat ipsum occaecat mollit proident.
 
 ## Third Slide
 
-![bg height: 400 left:50%](siamese.jpg)
+![bg height: left:40%](siamese.jpg)
 
 - Fugiat pariatur amet fugiat id deserunt quis proident culpa duis qui.
 
@@ -56,7 +56,7 @@ The io.Reader interface is a type you'll see all over the Go interface, with jus
 
 ---
 ### Slide 5
-![width:400px height:325px](siamese.jpg)
+![width:600px height:500px](siamese.jpg)
 
 ---
 
