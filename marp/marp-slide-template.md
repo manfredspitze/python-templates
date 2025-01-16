@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: gaia
 paginate: true
 
 header: 'This is the header'
@@ -61,7 +61,7 @@ The io.Reader interface is a type you'll see all over the Go interface, with jus
 ---
 
 ### Size Three Heading
-<!-- header: Customer header -->
+<!-- header: Custom header -->
 
 ---
 
