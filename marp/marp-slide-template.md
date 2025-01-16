@@ -56,7 +56,7 @@ The io.Reader interface is a type you'll see all over the Go interface, with jus
 
 ---
 ### Slide 5
-![width:600px height:500px](siamese.jpg)
+![width:400px height:325px](siamese.jpg)
 
 ---
 
