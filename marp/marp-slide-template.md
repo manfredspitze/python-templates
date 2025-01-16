@@ -28,7 +28,7 @@ Cupidatat ipsum occaecat mollit proident.
 
 ## Third Slide
 
-![bg height: left:50%](siamese.jpg)
+![bg height: 400 left:50%](siamese.jpg)
 
 - Fugiat pariatur amet fugiat id deserunt quis proident culpa duis qui.
 
